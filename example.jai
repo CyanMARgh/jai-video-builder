@@ -1,4 +1,4 @@
-#import,file "video_builder.jai";
+#import,dir ".";
 #import "Basic";
 
 WIDTH, HEIGHT :: 1280, 720;
